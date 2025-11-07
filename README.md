@@ -1,2 +1,3 @@
 # Warehouse_Java_H2
-Console Java app for warehouse with H2 database
+Простой CRUD-проект на Java с H2 Database.  
+Позволяет добавлять, редактировать и удалять товары\клиентов\поставщиков и также ведет финансовую отчетсность.
